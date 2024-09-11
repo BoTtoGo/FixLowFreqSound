@@ -1,5 +1,8 @@
 # Clean Sound with AI - Denoising Audio Using CNN
 
+First I want to Thank Dr.Yevgeny Beiderman and my partner for this project Mr. @baruch456 
+
+
 This project aims to clean sound recordings from noisy environments using a Convolutional Neural Network (CNN) based on the CleanUNet model. The application is built using Python and PyQt5 for the graphical user interface (GUI), and it employs the `torchaudio` library for audio processing.
 
 ## Table of Contents
@@ -19,6 +22,9 @@ This project aims to clean sound recordings from noisy environments using a Conv
 - **Audio Denoising**: Clean noisy audio files using a trained CNN model.
 - **Visualization**: Plot waveforms, spectrograms, and frequency spectra of the original and denoised audio.
 - **File Management**: Easily select input files and output directories for processing.
+
+- ![image](https://github.com/user-attachments/assets/45b19af8-94bf-4bc0-b040-af71d27898fb)
+
 
 ## Installation
 
@@ -79,7 +85,6 @@ To run this project locally, follow these steps:
 2. **Audio Processing**: The noisy audio file is loaded, processed by the model, and the cleaned version is saved.
 3. **Visualization**: The original and cleaned audio are visualized in the GUI using waveforms, spectrograms, and frequency spectra.
 
-![image](https://github.com/user-attachments/assets/45b19af8-94bf-4bc0-b040-af71d27898fb)
 
 
 
