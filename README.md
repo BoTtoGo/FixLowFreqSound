@@ -79,6 +79,10 @@ To run this project locally, follow these steps:
 2. **Audio Processing**: The noisy audio file is loaded, processed by the model, and the cleaned version is saved.
 3. **Visualization**: The original and cleaned audio are visualized in the GUI using waveforms, spectrograms, and frequency spectra.
 
+![image](https://github.com/user-attachments/assets/45b19af8-94bf-4bc0-b040-af71d27898fb)
+![image](https://github.com/user-attachments/assets/45b19af8-94bf-4bc0-b040-af71d27898fb)
+
+
 ## Dependencies
 
 - Python 3.8+
