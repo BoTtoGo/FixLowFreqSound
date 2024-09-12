@@ -53,8 +53,8 @@ To run this project locally, follow these steps:
 
 3. **Download the CleanUNet model:**
 
-   Place the `cleanunet_model_conc.pth` file in the root directory of the project. You can download it from [https://drive.google.com/file/d/1pdoRDIF38rDHmML0R3wWdCw6KjDN6Gk6/view?usp=sharing](link-to-model-download).
-https://drive.google.com/file/d/1pdoRDIF38rDHmML0R3wWdCw6KjDN6Gk6/view?usp=sharing
+   Place the `cleanunet_model_conc.pth` file in the root directory of the project. You can download it from https://drive.google.com/file/d/1pdoRDIF38rDHmML0R3wWdCw6KjDN6Gk6/view?usp=sharing .
+
 ## Usage
 
 1. **Run the application:**
